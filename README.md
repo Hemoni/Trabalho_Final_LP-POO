@@ -27,6 +27,9 @@ Este é um projeto para a implementação de um sistema de vendas em java com in
 - O código utiliza a biblioteca `Swing`
 
 ### Video de Demonstração
+Abaixo tem um video demonstrando o funcionamento da aplicação
+
+https://github.com/Hemoni/Trabalho_Final_LP-POO/assets/145055452/8fd9a8cf-bb3d-41b6-b35a-83f9c9b63d88
 
 
 
