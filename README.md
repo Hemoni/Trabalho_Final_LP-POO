@@ -22,4 +22,4 @@ Este é um projeto para a implementação de um sistema de vendas em java com in
 
 ### Funcionamento do Código
 
-- A aplicação funciona a partir de várias classes e métodos: `#RRGGBBTelaPricipal`, 
+- A aplicação funciona a partir de várias classes e métodos: `TelaPricipal` , 
