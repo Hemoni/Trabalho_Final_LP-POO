@@ -22,4 +22,11 @@ Este é um projeto para a implementação de um sistema de vendas em java com in
 
 ### Funcionamento do Código
 
-- A aplicação funciona a partir de várias classes e métodos: `TelaPricipal` , 
+- A aplicação funciona a partir de várias classes e métodos: `TelaLogin`, `TelaCadastro`, `TelaVendas`, `Item`, `Pagamento`
+- O código utiliza o banco MySql para o armazenamento dos usuários
+- O código utiliza a biblioteca `Swing`
+
+### Video de Demonstração
+
+
+
