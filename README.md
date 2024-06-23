@@ -33,7 +33,7 @@ Este é um projeto para a implementação de um sistema de vendas em java com in
 ### Video de Demonstração
 Abaixo tem um video demonstrando o funcionamento da aplicação
 
-https://github.com/Hemoni/Trabalho_Final_LP-POO/assets/145055452/8fd9a8cf-bb3d-41b6-b35a-83f9c9b63d88
+https://github.com/Hemoni/Trabalho_Final_LP-POO/assets/145055452/49351ccd-6d8c-492d-8816-74d78fb09549
 
 ### Como Rodar a API
 1.Certifique-se de ter o JDK (Java Development Kit) instalado em sua máquina.
