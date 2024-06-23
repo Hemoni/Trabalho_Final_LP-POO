@@ -36,12 +36,12 @@ Abaixo tem um video demonstrando o funcionamento da aplicação
 https://github.com/Hemoni/Trabalho_Final_LP-POO/assets/145055452/49351ccd-6d8c-492d-8816-74d78fb09549
 
 ### Como Rodar a API
--Certifique-se de ter o JDK (Java Development Kit) instalado em sua máquina.
--Cerfifique-se de ter o IntellijIdea Ultimate e o banco de dados MySQL em sua maquina.
--Copie este repositório.
--Importe o projeto no intellijIdea.
--Compile o código-fonte.
--Execute a classe TelaLogin para iniciar o sistema.
--Faça login com as credenciais apropriadas ou crie uma nova conta.
--Explore a vitrine de produtos, adicione itens ao carrinho, realize o pagamento e divirta-se fazendo compras.
+- Certifique-se de ter o JDK (Java Development Kit) instalado em sua máquina.
+- Cerfifique-se de ter o IntellijIdea Ultimate e o banco de dados MySQL em sua maquina.
+- Copie este repositório.
+- Importe o projeto no intellijIdea.
+- Compile o código-fonte.
+- Execute a classe TelaLogin para iniciar o sistema.
+- Faça login com as credenciais apropriadas ou crie uma nova conta.
+- Explore a vitrine de produtos, adicione itens ao carrinho, realize o pagamento e divirta-se fazendo compras.
 
